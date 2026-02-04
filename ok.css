@@ -1,0 +1,37 @@
+body {
+    background-color: #fffaf0; /* Màu nền trắng kem */
+    margin: 0;
+    font-family: 'Times New Roman'; /* Font chữ cho báo tường */
+}
+
+header {
+    background-color: #b30000; /* Đỏ đậm */
+    color: yellow;
+    text-align: center; /*Căn tiêu đề vào giữa */
+    padding: 30px;
+}
+
+.giua {   /* Phần chữ nguồn của hình ảnh */
+    text-align: left; /* Căn tiêu đề qua bên phải*/
+    font-size: 20px;
+}
+
+h2.do {
+    color: #b30000;
+    text-align: center;/*Căn tiêu đề vào giữa */
+}
+
+#binhluan {
+    width: 60%;/* Độ rộng khung */
+    margin: 30px auto;/* Canh giữa */
+    padding: 20px;/* Khoảng cách trong */
+    border: 2px solid #b30000;/* Viền đỏ */
+    background-color: #fffaf0;/* Nền trắng kem */
+}
+
+footer {
+    background: #b30000; /*Đỏ đậm*/
+    color: yellow; /* Chữ màu vàng */
+    text-align: center;/*Căn tiêu đề vào giữa */
+    padding: 15px;
+}
